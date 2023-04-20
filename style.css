@@ -1,0 +1,13 @@
+html {
+    text-align: center;
+    background-color: aqua;
+    margin: top 20px;
+}
+
+h1 {
+    font-size: x-large;
+}
+
+p {
+    font-size-adjust: 20;
+}
